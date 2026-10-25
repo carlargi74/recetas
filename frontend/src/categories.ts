@@ -1,0 +1,16 @@
+export const CATEGORIES = [
+  "Entrantes y aperitivos",
+  "Sopas y cremas",
+  "Ensaladas y verduras",
+  "Pasta y arroz",
+  "Legumbres",
+  "Carnes",
+  "Pescados y mariscos",
+  "Huevos",
+  "Panes y masas",
+  "Postres y dulces",
+  "Desayunos y meriendas",
+  "Salsas y aliños",
+  "Bebidas",
+  "Otros",
+];
